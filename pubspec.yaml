@@ -44,6 +44,8 @@ dependencies:
   cached_network_image: ^3.4.1
   google_fonts: ^6.2.1
   supabase_flutter: ^2.8.2
+  fpdart: ^1.1.1
+  internet_connection_checker_plus: ^2.6.0
 
 dev_dependencies:
   flutter_test:
